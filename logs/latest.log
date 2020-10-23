@@ -1,0 +1,326 @@
+[00:03:17] [User Authenticator #10/INFO]: UUID of player winsl0w is 11794eeb-e4e0-40d6-a945-68bda42c8883
+[00:03:17] [Server thread/INFO]: winsl0w[/192.168.0.2:57773] logged in with entity id 264173 at (-242.37991910955537, 64.0, -234.11934813168318)
+[00:03:17] [Server thread/INFO]: winsl0w joined the game
+[00:30:29] [Server thread/INFO]: Villager bfg['Villager'/264055, l='ServerLevel[world]', x=-281.51, y=63.21, z=-224.50] died, message: 'Villager tried to swim in lava'
+[00:31:35] [Server thread/INFO]: Villager bfg['Villager'/265153, l='ServerLevel[world]', x=-281.51, y=63.29, z=-224.49] died, message: 'Villager tried to swim in lava'
+[00:39:30] [Server thread/INFO]: Villager bfg['Villager'/263316, l='ServerLevel[world]', x=-281.29, y=63.60, z=-224.49] died, message: 'Villager tried to swim in lava'
+[01:10:38] [Server thread/INFO]: Villager bfg['Villager'/269265, l='ServerLevel[world]', x=-281.51, y=63.16, z=-224.50] died, message: 'Villager tried to swim in lava'
+[01:11:38] [Server thread/INFO]: Villager bfg['Villager'/270741, l='ServerLevel[world]', x=-281.37, y=63.52, z=-224.49] died, message: 'Villager tried to swim in lava'
+[01:39:33] [Server thread/INFO]: Villager bfg['Villager'/274537, l='ServerLevel[world]', x=-281.51, y=63.28, z=-224.49] died, message: 'Villager tried to swim in lava'
+[01:51:33] [Server thread/INFO]: Villager bfg['Villager'/276212, l='ServerLevel[world]', x=-281.51, y=63.65, z=-224.49] died, message: 'Villager tried to swim in lava'
+[01:57:16] [Server thread/INFO]: Villager bfg['Villager'/277036, l='ServerLevel[world]', x=-281.36, y=63.33, z=-224.48] died, message: 'Villager tried to swim in lava'
+[02:19:46] [Server thread/INFO]: Villager bfg['Villager'/280087, l='ServerLevel[world]', x=-281.51, y=63.61, z=-224.49] died, message: 'Villager tried to swim in lava'
+[02:31:41] [Server thread/INFO]: Villager bfg['Villager'/281727, l='ServerLevel[world]', x=-281.51, y=63.61, z=-224.49] died, message: 'Villager tried to swim in lava'
+[02:40:24] [Server thread/INFO]: Villager bfg['Villager'/282893, l='ServerLevel[world]', x=-281.47, y=63.17, z=-224.51] died, message: 'Villager tried to swim in lava'
+[03:00:03] [Server thread/INFO]: Villager bfg['Villager'/285584, l='ServerLevel[world]', x=-281.40, y=63.40, z=-224.48] died, message: 'Villager tried to swim in lava'
+[03:19:39] [Server thread/INFO]: Villager bfg['Villager'/288457, l='ServerLevel[world]', x=-281.51, y=63.37, z=-224.49] died, message: 'Villager tried to swim in lava'
+[03:31:35] [Server thread/INFO]: Villager bfg['Villager'/290178, l='ServerLevel[world]', x=-281.51, y=63.59, z=-224.50] died, message: 'Villager tried to swim in lava'
+[03:39:32] [Server thread/INFO]: Villager bfg['Villager'/291243, l='ServerLevel[world]', x=-281.51, y=63.37, z=-224.49] died, message: 'Villager tried to swim in lava'
+[03:59:42] [Server thread/INFO]: Villager bfg['Villager'/294035, l='ServerLevel[world]', x=-281.51, y=63.54, z=-224.49] died, message: 'Villager tried to swim in lava'
+[04:11:25] [Server thread/INFO]: Villager bfg['Villager'/295685, l='ServerLevel[world]', x=-281.36, y=63.44, z=-224.51] died, message: 'Villager tried to swim in lava'
+[04:39:42] [Server thread/INFO]: Villager bfg['Villager'/299602, l='ServerLevel[world]', x=-281.51, y=63.25, z=-224.49] died, message: 'Villager tried to swim in lava'
+[04:51:15] [Server thread/INFO]: Villager bfg['Villager'/301311, l='ServerLevel[world]', x=-281.39, y=63.24, z=-224.50] died, message: 'Villager tried to swim in lava'
+[05:00:22] [Server thread/INFO]: Villager bfg['Librarian'/268512, l='ServerLevel[world]', x=-281.46, y=63.16, z=-224.51] died, message: 'Librarian tried to swim in lava'
+[05:32:06] [Server thread/INFO]: Villager bfg['Villager'/306795, l='ServerLevel[world]', x=-281.51, y=63.65, z=-224.49] died, message: 'Villager tried to swim in lava'
+[05:36:17] [Server thread/INFO]: Villager bfg['Villager'/307593, l='ServerLevel[world]', x=-281.35, y=63.06, z=-224.49] died, message: 'Villager tried to swim in lava'
+[05:59:02] [Server thread/INFO]: Villager bfg['Villager'/310760, l='ServerLevel[world]', x=-281.35, y=63.54, z=-224.49] died, message: 'Villager tried to swim in lava'
+[06:12:42] [Server thread/INFO]: Villager bfg['Villager'/312409, l='ServerLevel[world]', x=-281.51, y=63.51, z=-224.49] died, message: 'Villager tried to swim in lava'
+[06:19:35] [Server thread/INFO]: Villager bfg['Villager'/313199, l='ServerLevel[world]', x=-281.51, y=63.27, z=-224.49] died, message: 'Villager tried to swim in lava'
+[06:51:04] [Server thread/INFO]: Villager bfg['Villager'/316334, l='ServerLevel[world]', x=-281.36, y=63.61, z=-224.49] died, message: 'Villager tried to swim in lava'
+[06:59:32] [Server thread/INFO]: Villager bfg['Villager'/319042, l='ServerLevel[world]', x=-281.51, y=63.59, z=-224.49] died, message: 'Villager tried to swim in lava'
+[07:11:36] [Server thread/INFO]: Villager bfg['Villager'/320732, l='ServerLevel[world]', x=-281.51, y=63.48, z=-224.49] died, message: 'Villager tried to swim in lava'
+[07:20:29] [Server thread/INFO]: Villager bfg['Cartographer'/321793, l='ServerLevel[world]', x=-281.51, y=63.14, z=-224.51] died, message: 'Cartographer tried to swim in lava'
+[07:32:12] [Server thread/INFO]: Villager bfg['Villager'/323508, l='ServerLevel[world]', x=-281.51, y=63.32, z=-224.50] died, message: 'Villager tried to swim in lava'
+[07:59:34] [Server thread/INFO]: Villager bfg['Villager'/327362, l='ServerLevel[world]', x=-281.51, y=63.65, z=-224.49] died, message: 'Villager tried to swim in lava'
+[08:11:32] [Server thread/INFO]: Villager bfg['Villager'/329035, l='ServerLevel[world]', x=-281.37, y=63.35, z=-224.50] died, message: 'Villager tried to swim in lava'
+[08:39:41] [Server thread/INFO]: Villager bfg['Villager'/332961, l='ServerLevel[world]', x=-281.40, y=63.44, z=-224.49] died, message: 'Villager tried to swim in lava'
+[08:51:29] [Server thread/INFO]: Villager bfg['Villager'/334645, l='ServerLevel[world]', x=-281.51, y=63.28, z=-224.49] died, message: 'Villager tried to swim in lava'
+[08:59:33] [Server thread/INFO]: Villager bfg['Villager'/329789, l='ServerLevel[world]', x=-281.51, y=63.30, z=-224.49] died, message: 'Villager tried to swim in lava'
+[09:11:24] [Server thread/INFO]: Villager bfg['Librarian'/305198, l='ServerLevel[world]', x=-281.51, y=63.34, z=-224.50] died, message: 'Librarian tried to swim in lava'
+[09:31:25] [Server thread/INFO]: Villager bfg['Villager'/340208, l='ServerLevel[world]', x=-281.43, y=63.12, z=-224.49] died, message: 'Villager tried to swim in lava'
+[09:37:17] [Server thread/INFO]: Villager bfg['Villager'/340966, l='ServerLevel[world]', x=-281.51, y=63.37, z=-224.49] died, message: 'Villager tried to swim in lava'
+[09:59:46] [Server thread/INFO]: Villager bfg['Villager'/344080, l='ServerLevel[world]', x=-281.51, y=63.29, z=-224.49] died, message: 'Villager tried to swim in lava'
+[10:04:45] [Server thread/INFO]: winsl0w lost connection: Disconnected
+[10:04:45] [Server thread/INFO]: winsl0w left the game
+[10:16:13] [User Authenticator #11/INFO]: UUID of player winsl0w is 11794eeb-e4e0-40d6-a945-68bda42c8883
+[10:16:13] [Server thread/INFO]: winsl0w[/192.168.0.2:59655] logged in with entity id 348495 at (-218.98874490783658, 69.0, -230.4150789888522)
+[10:16:13] [Server thread/INFO]: winsl0w joined the game
+[10:22:28] [Server thread/INFO]: Villager bfg['Villager'/345746, l='ServerLevel[world]', x=-281.51, y=63.48, z=-224.49] died, message: 'Villager tried to swim in lava'
+[10:32:48] [Server thread/INFO]: Villager bfg['Villager'/346580, l='ServerLevel[world]', x=-281.37, y=63.31, z=-224.49] died, message: 'Villager tried to swim in lava'
+[10:35:27] [Server thread/INFO]: winsl0w lost connection: Disconnected
+[10:35:27] [Server thread/INFO]: winsl0w left the game
+[10:47:12] [User Authenticator #12/INFO]: UUID of player winsl0w is 11794eeb-e4e0-40d6-a945-68bda42c8883
+[10:47:13] [Server thread/INFO]: winsl0w[/192.168.0.2:59773] logged in with entity id 351797 at (-242.61003614965625, 64.0, -234.13537820754436)
+[10:47:13] [Server thread/INFO]: winsl0w joined the game
+[10:49:25] [Server thread/WARN]: Boat (vehicle of winsl0w) moved too quickly! 0.0,0.0,-10.299186744200597
+[10:53:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-929, y=70, z=-6911} fx{x=-916, y=82, z=-6923}
+[10:53:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-929, y=70, z=-6911} fx{x=-916, y=82, z=-6923}
+[10:53:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-929, y=70, z=-6911} fx{x=-916, y=82, z=-6923}
+[10:53:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-929, y=70, z=-6911} fx{x=-916, y=82, z=-6923}
+[10:53:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-929, y=70, z=-6911} fx{x=-916, y=82, z=-6923}
+[10:53:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-929, y=70, z=-6911} fx{x=-916, y=82, z=-6923}
+[10:53:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-929, y=70, z=-6911} fx{x=-916, y=82, z=-6923}
+[10:53:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-929, y=70, z=-6911} fx{x=-916, y=82, z=-6923}
+[10:53:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-929, y=70, z=-6911} fx{x=-914, y=83, z=-6920}
+[10:53:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-929, y=70, z=-6911} fx{x=-914, y=83, z=-6920}
+[10:53:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-929, y=70, z=-6911} fx{x=-914, y=83, z=-6920}
+[10:53:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-929, y=70, z=-6911} fx{x=-914, y=83, z=-6920}
+[10:53:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-929, y=70, z=-6911} fx{x=-914, y=83, z=-6920}
+[10:53:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-929, y=70, z=-6911} fx{x=-914, y=83, z=-6920}
+[10:53:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-929, y=70, z=-6911} fx{x=-914, y=83, z=-6920}
+[10:53:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-929, y=70, z=-6911} fx{x=-914, y=83, z=-6920}
+[10:53:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-929, y=70, z=-6911} fx{x=-912, y=83, z=-6924}
+[10:53:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-929, y=70, z=-6911} fx{x=-912, y=83, z=-6924}
+[10:53:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-929, y=70, z=-6911} fx{x=-912, y=83, z=-6924}
+[10:53:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-929, y=70, z=-6911} fx{x=-912, y=83, z=-6924}
+[11:02:32] [Server thread/INFO]: winsl0w lost connection: Disconnected
+[11:02:32] [Server thread/INFO]: winsl0w left the game
+[11:09:31] [User Authenticator #13/INFO]: UUID of player winsl0w is 11794eeb-e4e0-40d6-a945-68bda42c8883
+[11:09:31] [Server thread/INFO]: winsl0w[/192.168.0.2:59903] logged in with entity id 358240 at (-1002.4618008554368, 97.0, -6903.907827723914)
+[11:09:31] [Server thread/INFO]: winsl0w joined the game
+[11:15:03] [Server thread/INFO]: Villager bfg['Villager'/348603, l='ServerLevel[world]', x=-281.51, y=63.59, z=-224.50] died, message: 'Villager tried to swim in lava'
+[11:19:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2843ms or 56 ticks behind
+[11:24:39] [Server thread/WARN]: Fetching packet for removed entity bcs['Terracotta'/362320, l='ServerLevel[world]', x=3597.78, y=71.00, z=-784.81]
+[11:41:49] [Server thread/INFO]: Villager bfg['Villager'/354094, l='ServerLevel[world]', x=-281.51, y=63.60, z=-224.49] died, message: 'Villager tried to swim in lava'
+[11:44:39] [User Authenticator #14/INFO]: UUID of player ferociousmadman is 03b6b424-743d-4e24-8b3d-5af7bc5e3d04
+[11:44:39] [Server thread/INFO]: ferociousmadman[/71.69.169.254:58036] logged in with entity id 366404 at (-266.8048473878568, 63.0, -225.23729875397717)
+[11:44:39] [Server thread/INFO]: ferociousmadman joined the game
+[11:45:00] [Server thread/INFO]: <winsl0w> hello
+[11:45:33] [Server thread/INFO]: <ferociousmadman> hi
+[11:45:46] [Server thread/INFO]: <ferociousmadman> I'm available if you want to do a call sometime. Just not between 1 and 2 PM
+[11:52:00] [Server thread/INFO]: <ferociousmadman> oooo terracotta
+[11:52:14] [Server thread/INFO]: <winsl0w> yessir
+[11:58:00] [Server thread/INFO]: <winsl0w> laying out the footprint for the auto furnace setup
+[11:58:06] [Server thread/INFO]: <winsl0w> not gonna be able to finish it tho
+[11:58:07] [Server thread/INFO]: <ferociousmadman> nice
+[12:09:37] [Server thread/WARN]: Fetching packet for removed entity bcs['Sugar Cane'/373919, l='ServerLevel[world]', x=-240.18, y=67.48, z=-243.88]
+[12:20:55] [Server thread/INFO]: winsl0w lost connection: Disconnected
+[12:20:55] [Server thread/INFO]: winsl0w left the game
+[12:21:17] [User Authenticator #15/INFO]: UUID of player winsl0w is 11794eeb-e4e0-40d6-a945-68bda42c8883
+[12:21:18] [Server thread/INFO]: winsl0w[/192.168.0.2:60205] logged in with entity id 376134 at (-146.73452784135367, 83.0, -215.37515157038985)
+[12:21:18] [Server thread/INFO]: winsl0w joined the game
+[12:22:22] [Server thread/INFO]: Villager bfg['Villager'/371601, l='ServerLevel[world]', x=-281.00, y=63.76, z=-224.50] died, message: 'Villager tried to swim in lava'
+[12:24:34] [Server thread/INFO]: <ferociousmadman> this ended up being a great place for this town (and our base)
+[12:24:39] [Server thread/INFO]: <ferociousmadman> I have to say...
+[12:24:44] [Server thread/INFO]: <winsl0w> yea I totally agree
+[12:27:13] [Server thread/WARN]: Fetching packet for removed entity bcs['Sugar Cane'/377296, l='ServerLevel[world]', x=-240.86, y=67.75, z=-243.88]
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -9.527626207804929,0.0,-3.958030047094269
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -9.914513859709473,0.0,-4.04944317571163
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -10.302213286635151,0.0,-4.13801630152949
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -10.690440044320553,0.0,-4.225196925256668
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -11.078930138464216,0.0,-4.312161414694884
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -11.467443154156626,0.0,-4.399861956138139
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -11.855765280984429,0.0,-4.489057508565864
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -12.243710627465248,0.0,-4.580341629354095
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -12.631120068281575,0.0,-4.674171093693531
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -13.017858921566244,0.0,-4.770891452762129
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -13.40381871786019,0.0,-4.870745288586818
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -13.788911002592158,0.0,-4.9739014056333986
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -14.173068475009245,0.0,-5.080459144513199
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -14.556241922845743,0.0,-5.190463072317385
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -14.938398372495499,0.0,-5.303912485146412
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -15.319517732885629,0.0,-5.420773450983376
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -15.699592323061665,0.0,-5.54098242680449
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -16.078624889842445,0.0,-5.664453035309023
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -16.456626656071762,0.0,-5.7910821053028485
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -16.83361541503325,0.0,-5.920755059614649
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -17.20961522730886,0.0,-6.053347193529689
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -17.584654568428164,0.0,-6.188728331809557
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -17.95876456862095,0.0,-6.326766979963097
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -18.33198047960707,0.0,-6.467327027041989
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -18.704338304566818,0.0,-6.610275281612786
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -19.07587640310078,0.0,-6.755477730186627
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -19.446633787823203,0.0,-6.90280316403846
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -19.816648531692067,0.0,-7.052126417267317
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -20.185959530904256,0.0,-7.20332430544434
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -20.554893810092153,0.0,-7.355643601467079
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -20.923981614051513,0.0,-7.5078148118234225
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -21.29385971354418,0.0,-7.6581397271504414
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -21.664966980031068,0.0,-7.805241547643547
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -22.03759226057082,0.0,-7.948016809957608
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -22.411908628838205,0.0,-8.085603817899482
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -22.788002154680385,0.0,-8.217348539671036
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -23.16589479785739,0.0,-8.342772374981152
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -23.545561279667936,0.0,-8.46154959578746
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -23.926944114674598,0.0,-8.573474900380688
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -24.309962773216398,0.0,-8.678452624774366
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -24.694522706255384,0.0,-8.776471437027908
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -15.938791743217735,0.0,-5.0047126213207775
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -16.326122311099653,0.0,-5.089052087588826
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -16.714678688584968,0.0,-5.166770915883404
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -17.104356641738946,0.0,-5.238067506326487
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -17.49505593389688,0.0,-5.303166245041467
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -17.88668147565795,0.0,-5.362307323888089
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -18.279143875591785,0.0,-5.415749049717277
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -18.67235992097301,0.0,-5.463754562928344
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -19.066252693792876,0.0,-5.506595208297838
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -19.460751474003928,0.0,-5.544538219874724
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -19.855791630088447,0.0,-5.5778509707538575
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -20.251314360382707,0.0,-5.606797124363368
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -20.647266333608854,0.0,-5.631633169313787
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -21.04359940633185,0.0,-5.652609133271014
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -21.440270189856506,0.0,-5.669965392002027
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -21.837239582204234,0.0,-5.683929798912914
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -22.23443556710049,0.0,-5.694025796966656
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -22.631721580808858,0.0,-5.699214408833868
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -23.02894192968995,0.0,-5.698702403054412
+[12:28:31] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -23.425936544267756,0.0,-5.691913777388976
+[12:28:32] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -23.822548867393948,0.0,-5.678444720696774
+[12:28:32] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -24.218633437883454,0.0,-5.658041867128318
+[12:28:32] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -24.61405967967471,0.0,-5.630575086657132
+[12:28:32] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -25.008712648490814,0.0,-5.596009349034205
+[12:28:32] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -25.402495007686753,0.0,-5.5543906950308894
+[12:28:32] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -25.795328068904155,0.0,-5.505833641291389
+[12:28:32] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -26.18714874259956,0.0,-5.4504988895529465
+[12:28:32] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -26.577910302744044,0.0,-5.388588133509387
+[12:28:32] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -26.967579226827297,0.0,-5.320328468025238
+[12:28:32] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -27.356136621044584,0.0,-5.245973054630383
+[12:28:32] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -27.743574376965512,0.0,-5.165787223497972
+[12:28:32] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -28.129893798697935,0.0,-5.080043331055151
+[12:28:32] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -28.51510547002249,0.0,-4.989019793793247
+[12:28:32] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -28.899227696850517,0.0,-4.89299664707481
+[12:28:32] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -29.282284937798977,0.0,-4.792251602076803
+[12:28:32] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -29.664306246421233,0.0,-4.687056541743075
+[12:28:32] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -30.045323753730827,0.0,-4.577674408119776
+[12:28:32] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -30.425374044286514,0.0,-4.4643635609653955
+[12:28:32] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -30.80422752298307,0.0,-4.346726398652976
+[12:28:32] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -31.181404255759162,0.0,-4.223854826410999
+[12:28:33] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -31.556491718183906,0.0,-4.0950875629485495
+[12:28:33] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -31.929142774435263,0.0,-3.95996345567427
+[12:28:33] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -32.299074104249485,0.0,-3.8181870397722975
+[12:28:33] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -32.66606247377058,0.0,-3.6695981523190255
+[12:28:33] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -33.02993941981174,0.0,-3.5141452443653094
+[12:28:33] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -33.39058482656378,0.0,-3.3518620025610915
+[12:28:33] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -33.747924184469184,0.0,-3.1828532115809196
+[12:28:33] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -34.10192315415259,0.0,-3.007279213987843
+[12:28:33] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -34.45257726483703,0.0,-2.825336192752218
+[12:28:33] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -34.79991331215001,0.0,-2.6372542654533646
+[12:28:33] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -35.1439810607792,0.0,-2.44328369166999
+[12:28:33] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -35.48484993614977,0.0,-2.243688863405964
+[12:28:33] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -35.82260578802618,0.0,-2.0387430659742733
+[12:28:33] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -36.15734527878101,0.0,-1.8287209762756618
+[12:28:33] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -36.48917548758709,0.0,-1.6138979890606464
+[12:28:33] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -36.81821099305398,0.0,-1.3945467383665289
+[12:28:33] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -37.14457109672571,0.0,-1.170934082294849
+[12:28:33] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -37.46837972704202,0.0,-0.9433213602300867
+[12:28:33] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -37.789760236216466,0.0,-0.711958924642417
+[12:28:33] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -38.10883822761241,0.0,-0.47708990522457384
+[12:28:34] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -38.42573642814614,0.0,-0.23894503962316094
+[12:28:34] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -38.740575117492426,0.0,0.0022562158788872466
+[12:28:34] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -39.05347249946885,0.0,0.24630466439656118
+[12:28:34] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -39.36454501951732,0.0,0.4930004449480947
+[12:28:34] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -39.67390243689442,0.0,0.7421578246357257
+[12:28:34] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -39.98165375526219,0.0,0.9935982016266962
+[12:28:34] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -40.28789953660555,0.0,1.2471578857085461
+[12:28:34] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -40.592738003647355,0.0,1.502681019191229
+[12:28:34] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -40.896262699599106,0.0,1.7600216379138516
+[12:28:34] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -41.19856298405182,0.0,2.0190427079685236
+[12:28:34] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -41.499724473690094,0.0,2.2796152568892865
+[12:28:34] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -41.79982417137376,0.0,2.5416231573057644
+[12:28:34] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -42.09893924748803,0.0,2.8049534996457055
+[12:28:34] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -42.39665394376709,0.0,3.070006372493026
+[12:28:34] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -42.692134313628685,0.0,3.3375661083866817
+[12:28:34] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -42.984176124414944,0.0,3.6086732419699814
+[12:28:34] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -43.271788946751826,0.0,3.884073309054898
+[12:28:34] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -43.55417174182935,0.0,4.164279607766687
+[12:28:34] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -43.83069823622668,0.0,4.449617142382749
+[12:28:34] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -44.10089740763533,0.0,4.740262165335892
+[12:28:35] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -44.364429860963014,0.0,5.036277355234546
+[12:28:35] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -44.62107757692365,0.0,5.337633500752602
+[12:28:35] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -44.87071992989274,0.0,5.644235177759853
+[12:28:35] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -45.11331738085255,0.0,5.955938352759858
+[12:28:35] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -45.348906209263305,0.0,6.2725599637705045
+[12:28:35] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -45.57757938281338,0.0,6.593892511031356
+[12:28:35] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -45.79947559682046,0.0,6.919712830050315
+[12:28:35] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -46.01477604257218,0.0,7.249786303033247
+[12:28:35] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -46.22433078977076,0.0,7.58360638825269
+[12:28:35] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -46.429524454157445,0.0,7.920439868929719
+[12:28:35] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -46.63151558593961,0.0,8.25964726829693
+[12:28:35] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -46.83126806989753,0.0,8.600674950809989
+[12:28:35] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -47.02958248864604,0.0,8.943045204369312
+[12:28:35] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -47.227113827487074,0.0,9.286351702711926
+[12:28:35] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -47.42440073041496,0.0,9.630247602179708
+[12:28:35] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -47.62187806929762,0.0,9.974441482179728
+[12:28:35] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -47.81989150459253,0.0,10.318691553281937
+[12:28:35] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -48.01871701984214,0.0,10.662796141796932
+[12:28:35] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -48.21856515314141,0.0,11.006592662158525
+[12:28:35] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -48.41959784024891,0.0,11.349948548583342
+[12:28:36] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -48.62193039889769,0.0,11.69276092785033
+[12:28:36] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -48.82564300974286,0.0,12.034950114743296
+[12:28:36] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -49.03078770949105,0.0,12.376455635495674
+[12:28:36] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -49.23739141018723,0.0,12.717234634470685
+[12:28:36] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -49.445461794245034,0.0,13.057258290680934
+[12:28:36] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -49.65498619384789,0.0,13.39651276498136
+[12:28:36] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved too quickly! -49.86594331172773,0.0,13.73499151045215
+[12:32:29] [Server thread/INFO]: <winsl0w> aight I'm heading out, gotta get some work done
+[12:32:36] [Server thread/INFO]: <ferociousmadman> ok!
+[12:32:39] [Server thread/WARN]: Boat (vehicle of ferociousmadman) moved wrongly! 0.2833876120967034
+[12:33:38] [Server thread/INFO]: Villager bfg['Villager'/374517, l='ServerLevel[world]', x=-281.51, y=63.35, z=-224.49] died, message: 'Villager tried to swim in lava'
+[12:42:38] [Server thread/INFO]: ferociousmadman lost connection: Disconnected
+[12:42:38] [Server thread/INFO]: ferociousmadman left the game
+[13:01:29] [Server thread/INFO]: Villager bfg['Villager'/384134, l='ServerLevel[world]', x=-281.51, y=63.23, z=-224.49] died, message: 'Villager tried to swim in lava'
+[13:21:24] [Server thread/INFO]: Villager bfg['Villager'/387866, l='ServerLevel[world]', x=-281.34, y=63.18, z=-224.49] died, message: 'Villager tried to swim in lava'
+[13:33:47] [Server thread/INFO]: Villager bfg['Villager'/389558, l='ServerLevel[world]', x=-281.51, y=63.31, z=-224.49] died, message: 'Villager tried to swim in lava'
+[13:42:39] [Server thread/INFO]: Villager bfg['Librarian'/338487, l='ServerLevel[world]', x=-281.42, y=63.33, z=-224.51] died, message: 'Librarian tried to swim in lava'
+[14:01:28] [Server thread/INFO]: Villager bfg['Villager'/393408, l='ServerLevel[world]', x=-281.40, y=63.04, z=-224.49] died, message: 'Villager tried to swim in lava'
+[14:08:59] [User Authenticator #16/INFO]: UUID of player ferociousmadman is 03b6b424-743d-4e24-8b3d-5af7bc5e3d04
+[14:08:59] [Server thread/INFO]: ferociousmadman[/71.69.169.254:9884] logged in with entity id 397321 at (-218.0533915997008, 69.0, -229.4731801207204)
+[14:08:59] [Server thread/INFO]: ferociousmadman joined the game
+[14:14:34] [Server thread/INFO]: ferociousmadman lost connection: Disconnected
+[14:14:34] [Server thread/INFO]: ferociousmadman left the game
+[14:18:09] [User Authenticator #17/INFO]: UUID of player ferociousmadman is 03b6b424-743d-4e24-8b3d-5af7bc5e3d04
+[14:18:09] [Server thread/INFO]: ferociousmadman[/71.69.169.254:10192] logged in with entity id 399097 at (-465.81936403778394, 62.07326443326606, 57.1052011516857)
+[14:18:09] [Server thread/INFO]: ferociousmadman joined the game
+[14:18:24] [Server thread/INFO]: <ferociousmadman> I'm just exploiting
+[14:18:28] [Server thread/INFO]: <ferociousmadman> exploring*
+[14:19:12] [Server thread/INFO]: Villager bfg['Villager'/395824, l='ServerLevel[world]', x=-281.43, y=63.58, z=-224.49] died, message: 'Villager tried to swim in lava'
+[14:20:46] [Server thread/INFO]: <ferociousmadman> found polar bears
+[14:33:15] [Server thread/INFO]: Villager bfg['Villager'/397860, l='ServerLevel[world]', x=-281.51, y=63.21, z=-224.50] died, message: 'Villager tried to swim in lava'
+[14:46:18] [Server thread/INFO]: ferociousmadman lost connection: Disconnected
+[14:46:18] [Server thread/INFO]: ferociousmadman left the game
+[14:48:43] [User Authenticator #18/INFO]: UUID of player ferociousmadman is 03b6b424-743d-4e24-8b3d-5af7bc5e3d04
+[14:48:44] [Server thread/INFO]: ferociousmadman[/71.69.169.254:11282] logged in with entity id 411392 at (-218.950611069513, 69.0, -229.06881592882746)
+[14:48:44] [Server thread/INFO]: ferociousmadman joined the game
+[14:53:38] [Server thread/INFO]: ferociousmadman lost connection: Disconnected
+[14:53:38] [Server thread/INFO]: ferociousmadman left the game
+[14:53:58] [Server thread/INFO]: Villager bfg['Villager'/405591, l='ServerLevel[world]', x=-281.36, y=63.08, z=-224.48] died, message: 'Villager tried to swim in lava'
+[15:01:27] [Server thread/INFO]: Villager bfg['Villager'/399034, l='ServerLevel[world]', x=-281.51, y=63.58, z=-224.49] died, message: 'Villager tried to swim in lava'
+[15:01:40] [Server thread/INFO]: Villager bfg['Villager'/395036, l='ServerLevel[world]', x=-281.51, y=63.18, z=-224.49] died, message: 'Villager tried to swim in lava'
+[15:02:16] [Server thread/INFO]: Villager bfg['Librarian'/408871, l='ServerLevel[world]', x=-281.51, y=63.58, z=-224.50] died, message: 'Librarian tried to swim in lava'
+[15:18:47] [Server thread/INFO]: Villager bfg['Villager'/412675, l='ServerLevel[world]', x=-281.37, y=63.26, z=-224.49] died, message: 'Villager tried to swim in lava'
+[15:28:08] [User Authenticator #19/INFO]: UUID of player ferociousmadman is 03b6b424-743d-4e24-8b3d-5af7bc5e3d04
+[15:28:08] [Server thread/INFO]: ferociousmadman[/71.69.169.254:12666] logged in with entity id 416719 at (-220.21009507717469, 63.0, -207.93310196137858)
+[15:28:08] [Server thread/INFO]: ferociousmadman joined the game
+[15:33:21] [Server thread/INFO]: Villager bfg['Villager'/414599, l='ServerLevel[world]', x=-281.51, y=63.60, z=-224.49] died, message: 'Villager tried to swim in lava'
+[15:41:32] [Server thread/INFO]: Villager bfg['Villager'/415302, l='ServerLevel[world]', x=-281.51, y=63.38, z=-224.49] died, message: 'Villager tried to swim in lava'
+[15:55:26] [Server thread/INFO]: Villager bfg['Villager'/417253, l='ServerLevel[world]', x=-281.51, y=63.64, z=-224.49] died, message: 'Villager tried to swim in lava'
+[15:58:37] [Server thread/INFO]: Villager bfg['Villager'/418147, l='ServerLevel[world]', x=-281.51, y=63.33, z=-224.49] died, message: 'Villager tried to swim in lava'
+[16:03:01] [Server thread/INFO]: ferociousmadman lost connection: Disconnected
+[16:03:01] [Server thread/INFO]: ferociousmadman left the game
+[16:14:25] [Server thread/INFO]: Villager bfg['Villager'/420203, l='ServerLevel[world]', x=-281.51, y=63.57, z=-224.50] died, message: 'Villager tried to swim in lava'
+[16:19:24] [Server thread/INFO]: Villager bfg['Villager'/420983, l='ServerLevel[world]', x=-281.51, y=63.24, z=-224.49] died, message: 'Villager tried to swim in lava'
+[16:33:39] [Server thread/INFO]: Villager bfg['Villager'/422990, l='ServerLevel[world]', x=-281.51, y=63.60, z=-224.49] died, message: 'Villager tried to swim in lava'
+[16:39:00] [Server thread/INFO]: Villager bfg['Villager'/423729, l='ServerLevel[world]', x=-281.51, y=63.17, z=-224.50] died, message: 'Villager tried to swim in lava'
+[16:53:17] [Server thread/INFO]: Villager bfg['Villager'/425769, l='ServerLevel[world]', x=-281.51, y=63.62, z=-224.49] died, message: 'Villager tried to swim in lava'
+[16:58:43] [Server thread/INFO]: Villager bfg['Villager'/411928, l='ServerLevel[world]', x=-281.51, y=63.16, z=-224.50] died, message: 'Villager tried to swim in lava'
+[16:58:53] [Server thread/INFO]: Villager bfg['Villager'/426565, l='ServerLevel[world]', x=-281.37, y=63.49, z=-224.48] died, message: 'Villager tried to swim in lava'
+[16:59:33] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/429461, l='ServerLevel[world]', x=-276.40, y=56.26, z=-223.41]
+[17:19:08] [Server thread/INFO]: Villager bfg['Villager'/429164, l='ServerLevel[world]', x=-281.51, y=63.48, z=-224.49] died, message: 'Villager tried to swim in lava'
+[17:20:08] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[19:17:53] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[19:18:05] [Server thread/INFO]: winsl0w lost connection: Disconnected
+[19:18:05] [Server thread/INFO]: winsl0w left the game
+[19:18:05] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\winsl0w\Desktop\mc_server_1.16\.\crash-reports\crash-2020-10-23_19.18.05-server.txt
+[19:18:05] [Server thread/INFO]: Stopping the server
+[19:18:05] [Server thread/INFO]: Stopping server
+[19:18:05] [Server thread/INFO]: Saving players
+[19:18:05] [Server thread/INFO]: Saving worlds
+[19:18:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:18:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:18:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:18:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:18:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:18:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:18:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:18:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:18:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
